@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "705873184040",
+    "firebase_url": "https://mzadcom-2-0.firebaseio.com",
+    "project_id": "mzadcom-2-0",
+    "storage_bucket": "mzadcom-2-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705873184040:android:eff50a95f83dc30a06fc1d",
+        "android_client_info": {
+          "package_name": "com.example.mzadcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705873184040-lq5kva0ts3a6h2io39mbnqmlq3d77oed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGP-akInABRosfs0-L9SQH7Nx2YBDb8Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705873184040-lq5kva0ts3a6h2io39mbnqmlq3d77oed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705873184040-ms5pjdqgk1fa43ndq10b3qi5i4jeblkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ropAuctionPlatform"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705873184040:android:89bce0cc4d4c4f5606fc1d",
+        "android_client_info": {
+          "package_name": "com.example.rop_auction_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705873184040-kr2r6n8trjvkoo7hcr4hd5j2k4qo4kk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rop_auction_platform",
+            "certificate_hash": "712cd4b0b92fa6ff732204d387e5afb07eaedf03"
+          }
+        },
+        {
+          "client_id": "705873184040-lq5kva0ts3a6h2io39mbnqmlq3d77oed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGP-akInABRosfs0-L9SQH7Nx2YBDb8Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705873184040-lq5kva0ts3a6h2io39mbnqmlq3d77oed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705873184040-ms5pjdqgk1fa43ndq10b3qi5i4jeblkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ropAuctionPlatform"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705873184040:android:3cdba4253aec0f8306fc1d",
+        "android_client_info": {
+          "package_name": "om.webware.mzadcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705873184040-lq5kva0ts3a6h2io39mbnqmlq3d77oed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGP-akInABRosfs0-L9SQH7Nx2YBDb8Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705873184040-lq5kva0ts3a6h2io39mbnqmlq3d77oed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705873184040-ms5pjdqgk1fa43ndq10b3qi5i4jeblkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ropAuctionPlatform"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
