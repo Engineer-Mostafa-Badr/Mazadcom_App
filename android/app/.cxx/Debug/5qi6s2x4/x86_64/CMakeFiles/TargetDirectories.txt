@@ -1,0 +1,2 @@
+C:/Users/ASUS1/Desktop/mzadcom - Copy/android/app/.cxx/Debug/5qi6s2x4/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ASUS1/Desktop/mzadcom - Copy/android/app/.cxx/Debug/5qi6s2x4/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+D:/mazadcom/mzadcom - Copy/android/app/.cxx/Debug/4j3v4570/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/mazadcom/mzadcom - Copy/android/app/.cxx/Debug/4j3v4570/armeabi-v7a/CMakeFiles/rebuild_cache.dir

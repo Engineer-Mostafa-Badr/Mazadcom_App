@@ -1,3 +1,15 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.4.2'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10'
+        classpath 'com.google.gms:google-services:4.3.10'
+    }
+}
+
 allprojects {
     repositories {
         google()
@@ -6,9 +18,11 @@ allprojects {
 }
 
 rootProject.buildDir = "../build"
+
 subprojects {
     project.buildDir = "${rootProject.buildDir}/${project.name}"
 }
+
 subprojects {
     project.evaluationDependsOn(":app")
 }
@@ -16,19 +30,3 @@ subprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-    }
-    dependencies {
-        // تحديث الإصدار إلى 7.5.2 لـ AGP
-        classpath 'com.android.tools.build:gradle:7.4.2'
-        
-        // تحديث الإصدار إلى 1.7.10 لـ Kotlin Gradle Plugin
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10' // تأكد من أن الإصدار مناسب
-   classpath 'com.google.gms:google-services:4.3.10'
-
-    }
-}
-
